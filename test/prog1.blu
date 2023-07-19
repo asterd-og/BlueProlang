@@ -1,0 +1,5 @@
+str string = "Hello World lol!\n";
+print(string);
+print("Blue prolang ");
+str notopo = "no topo.\n";
+print(notopo);
